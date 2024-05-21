@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Comrade LV
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hello world, this is my first post!
