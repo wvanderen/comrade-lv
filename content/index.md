@@ -1,7 +1,6 @@
 ---
-title: Comrade LV
+title: Welcome to Quartz
 ---
 ****
 Hello world!!! BOOOOOOO
 
-Hello world, this is my first post!
